@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-   hhha
+   hhha <el-button type="info">信息按钮</el-button>
   </div>
 </template>
 
